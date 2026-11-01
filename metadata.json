@@ -1,0 +1,6 @@
+{
+  "name": "OmniCanvas Studio",
+  "description": "Multitouch infinite canvas paint studio with pinch zoom, pinch rotate, multi-canvas side-by-side layout, cross-canvas clone stamp tool, and environment management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
